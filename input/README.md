@@ -1,4 +1,4 @@
-The folder where the original dataset was placed
+The folder where the original datasets be placed
 
 sample_submission.csv，
 test_identity.csv，
