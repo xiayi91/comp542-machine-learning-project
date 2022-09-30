@@ -1,0 +1,11 @@
+#
+COMP542Syllabus-Fall2022.pdf
+
+#
+data/test.csv
+data/train.csv
+input/sample_submission.csv
+input/test_identity.csv
+input/test_transaction.csv
+input/train_identity.csv
+input/train_transaction.csv
