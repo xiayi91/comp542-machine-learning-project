@@ -1,4 +1,4 @@
-The folder where the joined dataset was placed
+The folder where the joined datasets be placed
 
-train.csv
+train.csv，
 test.csv
