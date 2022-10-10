@@ -9,3 +9,4 @@ input/test_identity.csv
 input/test_transaction.csv
 input/train_identity.csv
 input/train_transaction.csv
+.ipynb_checkpoints/
