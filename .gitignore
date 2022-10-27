@@ -4,9 +4,12 @@ COMP542Syllabus-Fall2022.pdf
 #
 data/test.csv
 data/train.csv
+data/train_after_missing_value.csv
+data/test_after_missing_value.csv
 input/sample_submission.csv
 input/test_identity.csv
 input/test_transaction.csv
 input/train_identity.csv
 input/train_transaction.csv
 .ipynb_checkpoints/
+html/assignment*
