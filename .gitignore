@@ -6,6 +6,7 @@ data/test.csv
 data/train.csv
 data/train_after_missing_value.csv
 data/test_after_missing_value.csv
+data/csv files after dealing with missing values.zip
 input/sample_submission.csv
 input/test_identity.csv
 input/test_transaction.csv
