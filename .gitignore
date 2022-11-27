@@ -1,13 +1,19 @@
 #
 COMP542Syllabus-Fall2022.pdf
 
+# submission/
+submission/
+
 # data/
 data/test.csv
 data/train.csv
 data/train_after_missing_value.csv
 data/test_after_missing_value.csv
+data/train_after_missing_value_without_dropping_rows.csv
+data/test_after_missing_value_without_dropping_rows.csv
 data/train_after_feature_selection.csv
 data/test_after_feature_selection.csv
+
 
 # input/
 input/sample_submission.csv
